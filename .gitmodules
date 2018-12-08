@@ -2,3 +2,7 @@
 	path = submodule-example-repo
 	url = git@github.com:canch/example-repo.git
 	branch = master
+[submodule "deleted-example-repo"]
+	path = deleted-example-repo
+	url = git@github.com:canch/deleted-example-repo.git
+	branch = master

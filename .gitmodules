@@ -1,0 +1,4 @@
+[submodule "submodule-example-repo"]
+	path = submodule-example-repo
+	url = git@github.com:canch/example-repo.git
+	branch = master
